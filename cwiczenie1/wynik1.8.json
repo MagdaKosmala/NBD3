@@ -1,0 +1,256 @@
+﻿[
+  {
+    "people": {
+      "identity": 513,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Christopher Markus",
+        "born": 1970
+      }
+    },
+    "Type(relatedTo)": "WROTE",
+    "relatedTo": {
+      "identity": 765,
+      "start": 513,
+      "end": 511,
+      "type": "WROTE",
+      "properties": {}
+    }
+  },
+  {
+    "people": {
+      "identity": 521,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Richard Armitage",
+        "born": 1971
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+      "identity": 762,
+      "start": 521,
+      "end": 511,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Heinz Kruger"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+      "identity": 519,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+      "identity": 760,
+      "start": 519,
+      "end": 511,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Johann Schmidt",
+          "Red Skull"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+      "identity": 515,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Chris Evans",
+        "born": 1981
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+      "identity": 756,
+      "start": 515,
+      "end": 511,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Captain America",
+          "Steve Rogers"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+      "identity": 516,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hayley Atwell",
+        "born": 1982
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+      "identity": 757,
+      "start": 516,
+      "end": 511,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Peggy Carter"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+      "identity": 520,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Dominic Cooper",
+        "born": 1978
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+      "identity": 761,
+      "start": 520,
+      "end": 511,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Howard Stark"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+      "identity": 514,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Stephen McFeely",
+        "born": 1969
+      }
+    },
+    "Type(relatedTo)": "WROTE",
+    "relatedTo": {
+      "identity": 766,
+      "start": 514,
+      "end": 511,
+      "type": "WROTE",
+      "properties": {}
+    }
+  },
+  {
+    "people": {
+      "identity": 518,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Tommy Lee Jones",
+        "born": 1946
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+      "identity": 759,
+      "start": 518,
+      "end": 511,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Colonel Chester Phillips"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+      "identity": 522,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Stanley Tucci",
+        "born": 1960
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+      "identity": 763,
+      "start": 522,
+      "end": 511,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Dr. Abraham Erskine"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+      "identity": 517,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Sebastian Stan",
+        "born": 1982
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+      "identity": 758,
+      "start": 517,
+      "end": 511,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "James Buchanan Bucky Barnes"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+      "identity": 512,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Joe Johnston",
+        "born": 1950
+      }
+    },
+    "Type(relatedTo)": "DIRECTED",
+    "relatedTo": {
+      "identity": 764,
+      "start": 512,
+      "end": 511,
+      "type": "DIRECTED",
+      "properties": {}
+    }
+  }
+]

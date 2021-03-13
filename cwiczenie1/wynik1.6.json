@@ -1,0 +1,106 @@
+﻿[
+  {
+    "p": {
+      "identity": 45,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Cameron Crowe",
+        "born": 1957
+      }
+    },
+    "movie_title": "Jerry Maguire"
+  },
+  {
+    "p": {
+      "identity": 5,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Andy Wachowski",
+        "born": 1967
+      }
+    },
+    "movie_title": "Speed Racer"
+  },
+  {
+    "p": {
+      "identity": 6,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Lana Wachowski",
+        "born": 1965
+      }
+    },
+    "movie_title": "Speed Racer"
+  },
+  {
+    "p": {
+      "identity": 154,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Nancy Meyers",
+        "born": 1949
+      }
+    },
+    "movie_title": "Something's Gotta Give"
+  },
+  {
+    "p": {
+      "identity": 214,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Cameron Crowe",
+        "born": 1957
+      }
+    },
+    "movie_title": "Jerry Maguire"
+  },
+  {
+    "p": {
+      "identity": 175,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Lana Wachowski",
+        "born": 1965
+      }
+    },
+    "movie_title": "Speed Racer"
+  },
+  {
+    "p": {
+      "identity": 174,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Lilly Wachowski",
+        "born": 1967
+      }
+    },
+    "movie_title": "Speed Racer"
+  },
+  {
+    "p": {
+      "identity": 325,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Nancy Meyers",
+        "born": 1949
+      }
+    },
+    "movie_title": "Something's Gotta Give"
+  }
+]
