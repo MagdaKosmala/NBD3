@@ -1,1 +1,1 @@
-# NBD3 - bazy grafowe (Neo4j)
+# NBD3 - bazy grafowe (Neo4j - ćwiczenia)
